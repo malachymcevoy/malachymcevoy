@@ -1,4 +1,5 @@
 ## Hi there 👋
+🔭 I’m currently working on my Biotechnology thesis at the University of Edinburgh, focussing on applying optimization algorithms to biological systems and cell-free ODE models.
 
 <!--
 **malachymcevoy/malachymcevoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
